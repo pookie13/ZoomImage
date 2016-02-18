@@ -12,7 +12,9 @@ and put below lines into your xml files like:
         android:transitionName="@string/transition_name_phone" /> 
        
        
-
+```
+instead of define your image view like:
+```
   <ImageView
         android:id="@+id/frag_imageview"
         android:layout_width="match_parent"
