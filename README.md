@@ -8,11 +8,11 @@ and put below lines into your xml files like:
         android:layout_height="match_parent"
         android:scaleType="fitCenter"
         android:src="@drawable/default_flag"
-        android:transitionName="@string/transition_name_phone" />
-        ```
-<b>instead of write :</b>
+        android:transitionName="@string/transition_name_phone" /> 
+       
+       
 
-  ```<ImageView
+  <ImageView
         android:id="@+id/frag_imageview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
